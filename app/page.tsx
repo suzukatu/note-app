@@ -13,7 +13,7 @@ export default function Home() {
             Get Started
           </Link>
           <Link href="/notes" className="bg-blue-500 font-medium px-6 py-4 rounded-lg text-white hover:bg-blue-700 duration:200 ">
-            Noto Lists
+            Noto Liststest
           </Link>
         </div>
       </div>
